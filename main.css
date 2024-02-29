@@ -69,7 +69,7 @@ header a {
 /**Контент - секция**/
 .photo {
   height: auto;
-  background-image: url('../сош21/img/фото1.svg');
+  background-image: url('../img/фото1.svg');
   background-repeat: no-repeat;
   background-position: bottom center;
   border-style: cover;
