@@ -69,8 +69,8 @@ header a {
 /**Контент - секция**/
 .photo {
   height: auto;
-  background: url("../images/photo.svg")
- 
+  background: url("../images/photo.svg");
+   background-repeat: no-repeat;
   background-position: bottom center;
   border-style: cover;
   height: 551px;
