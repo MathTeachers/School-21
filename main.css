@@ -77,31 +77,7 @@ header a {
   position: relative;
 }
 
-.text {
-  top: 410px;
-  padding-left: 40px;
-  position: absolute;
-}
 
-.text-bold {
-  text-align: center;
-  width: 426px;
-  height: 45px;
-  margin: 0;
-  font-size: 32px;
-  font-weight: 600;
-  letter-spacing: 5%;
-}
-
-.text-smoll {
-  text-align: center;
-  width: 442px;
-  height: 63px;
-  margin: 0;
-  font-size: 16px;
-  font-weight: 300;
-  letter-spacing: 5%;
-}
 
 .poragrof {
   text-align: center;
