@@ -68,7 +68,7 @@ header a {
 
 /**Контент - секция**/
 .photo {
-  background-image: url("../images/фотоФОН.png");
+  background-image: url("images/фотоФОН.png");
   background-repeat: no-repeat;
   background-position: bottom center;
   border-style: cover;
